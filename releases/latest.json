@@ -1,0 +1,8 @@
+{
+  "version": "1.0.1",
+  "platform": "Windows x64",
+  "minecraft": "1.21.11",
+  "file": "https://github.com/Jonathantiedemann/jojo-client-downloads/releases/download/v1.0.1/JOJO-Client-1.0.1-Windows-x64.zip",
+  "sizeBytes": 74395569,
+  "sha256": "ef9b4e1f530c329193445c0c77fee4ff2d13c8af0330fd981aacf8ec59f46bfa"
+}
