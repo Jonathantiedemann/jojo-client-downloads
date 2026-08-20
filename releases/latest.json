@@ -1,8 +1,8 @@
 {
-  "version": "1.2.0",
+  "version": "1.4.0",
   "platform": "Windows x64",
-  "minecraft": "1.21.11",
-  "file": "https://github.com/liljohny185/jojo-client-downloads/releases/download/v1.2.0/JOJO-Client-1.2.0-Windows-x64.zip",
-  "sizeBytes": 77412246,
-  "sha256": "f897a63705813fd2dc02ebff74cf20c4c9d7eb053da9e96798d3f3f100b79d72"
+  "minecraft": "1.21.1–1.21.11",
+  "file": "https://github.com/liljohny185/jojo-client-downloads/releases/download/v1.4.0/JOJO-Client-1.4.0-Windows-x64.zip",
+  "sizeBytes": 259777865,
+  "sha256": "d49acc1cc87a1df24eb53d921c4f22114558bf42d103d2861107d104b9b15b36"
 }
