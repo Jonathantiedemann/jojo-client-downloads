@@ -26,7 +26,7 @@ async function loadRelease() {
     if (checksum) checksum.textContent = release.sha256.toUpperCase();
 
     const copyStatus = document.querySelector("#copy-status");
-    if (copyStatus) copyStatus.textContent = `JOJO Client ${release.version} / Windows x64`;
+    if (copyStatus) copyStatus.textContent = `Deaths Call ${release.version} / Windows x64`;
   } catch (error) {
     const checksum = document.querySelector("[data-checksum]");
     if (checksum && !/^[a-f0-9]{64}$/i.test(checksum.textContent.trim())) {
