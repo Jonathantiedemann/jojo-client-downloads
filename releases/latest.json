@@ -1,8 +1,8 @@
 {
-  "version": "1.5.0",
+  "version": "1.5.1",
   "platform": "Windows x64",
   "minecraft": "1.21.1–1.21.11",
-  "file": "https://github.com/liljohny185/deaths-call-downloads/releases/download/v1.5.0/Deaths-Call-1.5.0-Windows-x64.zip",
-  "sizeBytes": 259778573,
-  "sha256": "afa67d18c43ba98662e3f080e780fff74506995f1f3fc61abd3f797b4b51be0f"
+  "file": "https://github.com/liljohny185/deaths-call-downloads/releases/download/v1.5.1/Deaths-Call-1.5.1-Windows-x64.zip",
+  "sizeBytes": 259787007,
+  "sha256": "c8ed759879b650a931861513feb5955f42011193f6b257e7552c97f5d2be7ac8"
 }
