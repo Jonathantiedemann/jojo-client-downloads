@@ -398,6 +398,21 @@ button {
   content: "";
 }
 
+.launcher-card-screenshot {
+  margin: 0;
+  line-height: 0;
+}
+
+.launcher-card-screenshot::before {
+  content: none;
+}
+
+.launcher-preview-image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
 .window-bar {
   position: relative;
   display: flex;
