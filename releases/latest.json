@@ -1,8 +1,8 @@
 {
-  "version": "1.5.7",
+  "version": "1.5.8",
   "platform": "Windows x64",
   "minecraft": "1.21.1-1.21.11",
-  "file": "https://github.com/liljohny185/deaths-call-downloads/releases/download/v1.5.7/Zevrion-Client-1.5.7-Windows-x64.zip",
-  "sizeBytes": 281393161,
-  "sha256": "13ed0a7c0954e87dbc041724ce35c5650ee60810544ad9b9828574a8675239fb"
+  "file": "https://github.com/liljohny185/zevrion-client-downloads/releases/download/v1.5.8/Zevrion-Client-1.5.8-Windows-x64.zip",
+  "sizeBytes": 281398578,
+  "sha256": "040d3ac45dd8b60f4eafd9477ac130338abecd6e5f1360d2473972fd779a8137"
 }
