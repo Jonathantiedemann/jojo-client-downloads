@@ -1,8 +1,8 @@
 {
-  "version": "1.5.11",
+  "version": "1.5.13",
   "platform": "Windows x64",
   "minecraft": "1.21.1-1.21.11",
-  "file": "https://github.com/liljohny185/zevrion-client-downloads/releases/download/v1.5.11/Zevrion-Client-1.5.11-Windows-x64.zip",
-  "sizeBytes": 281987562,
-  "sha256": "8d0194a6302768ff02f5de7599bef5487e22f0ad3c4f914a946b7ae50586b2df"
+  "file": "https://zevrion-downloads.jonathan-kenett.workers.dev",
+  "sizeBytes": 282070375,
+  "sha256": "3d9042cd6e3edd9f6b34b2f280f1b464e77ef966003f0195c3c6fcd1516f9fc7"
 }
