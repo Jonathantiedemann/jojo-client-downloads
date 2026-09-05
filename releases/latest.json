@@ -1,8 +1,8 @@
 {
-  "version": "1.5.14",
+  "version": "1.5.15",
   "platform": "Windows x64",
   "minecraft": "1.21.1-1.21.11",
   "file": "https://zevrion-downloads.jonathan-kenett.workers.dev",
-  "sizeBytes": 282088664,
-  "sha256": "a98b26407d65e436f3eb005cdae5067ad67127d0969c66417a04ab63b9d08886"
+  "sizeBytes": 291674334,
+  "sha256": "d48a55a8ffdc3135cfe7eb9409733c998c26fd0590d946b81c5fa5e6c7d19145"
 }
